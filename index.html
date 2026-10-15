@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="An interactive APUSH primary-source assessment.">
+    <title>Historian's Lab | APUSH</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <header class="topbar">
+        <a class="brand" href="#">
+            <span class="brand-icon">H</span>
+            <span>HISTORIAN'S LAB</span>
+        </a>
+        <span class="course-label">AP U.S. HISTORY</span>
+    </header>
+
+    <main class="container">
+        <section class="intro">
+            <p class="eyebrow">UNIT 3 · REVOLUTION & FOUNDING</p>
+            <h1>Think like a historian.</h1>
+            <p class="intro-text">Analyze primary sources, evaluate historical arguments, and practice the skills used in AP U.S. History.</p>
+
+            <div class="objective">
+                <span class="objective-icon">◎</span>
+                <div>
+                    <strong>Today's learning objective</strong>
+                <p>I can analyze historical context, identify an author's purpose, and connect evidence to a historical argument.</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="assessment-card">
+        <div class="assessment-heading">
+            <div>
+                <p class="eyebrow">KNOWLEDGE CHECK</p>
+                <h2>Primary Source Assessment</h2>
+            </div>
+            <span class="question-count" id="question-count">0 of 3</span>
+        </div>
+
+        <div
+            class="progress-track"
+            role="progressbar"
+            aria-label="Assessment completion"
+            aria-valuemin="0"
+            aria-valuemax="3"
+            aria-valuenow="0"
+            id="progress-track">
+            <div class="progress-fill" id="progress-fill"></div>
+        </div>
+
+        <p class="instructions">Read each source carefully. Select the best answer for each question.</p>
+
+        <form id="assessment-form">
+            <div id="questions"></div>
+
+            <div class="form-actions">
+                <p id="form-message" class="form-message" aria-live="polite">Answer all three questions to submit.</p>
+                <button class="primary-button" type="submit" id="submit-button">Submit assessment <span aria-hidden="true">→</span>
+                </button>
+            </div>
+        </form>
+
+        <section id="results" class="results hidden" aria-live="polite">
+            <p class="eyebrow">ASSESSMENT COMPLETE</p>
+            <h2 id="results-title">Your results</h2>
+            <div class="score-display">
+                <span id="score-number">0/3</span>
+                <span id="score-percent">0%</span>
+            </div>
+            <p id="results-message"></p>
+
+            <div class="results-details">
+<h3>Skills to review</h3>
+<ul id="skills-list"></ul>
+            </div>
+
+            <button class="secondary-button" id="retry-button" type="button">Try again
+            </button>
+        </section>
+    </section>
+
+    <footer>
+        <p>HISTORIAN'S LAB · Learn from the past. Build your argument.</p>
+    </footer>
+  </main>
+</body>
+</html>
