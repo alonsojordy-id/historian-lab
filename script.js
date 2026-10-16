@@ -16,13 +16,13 @@ correct: 1,
 explanation:
 "Correct. Jefferson’s views of government saw limited involvement with the lives of United States citizens. He argued in the excerpt that “a wise and frugal Government . . . shall leave [its people] otherwise free to regulate their own pursuits of industry and improvement.”",
 learningTip:
-"Identify the historical ideas that shaped a document."
+"Connect the author's perspective to the argument."
 },
 {
 skill: "Purpose",
 source:
-"Same Excerpt as above",
-attribution: "Same as above",
+"Let us, then, with courage and confidence, pursue our own Federal and [Democratic-] Republican principles, our attachment to union and representative government. Kindly separated by nature and a wide ocean from the exterminating havoc of one quarter of the globe; too high-minded to endure the degradations of the others; possessing a chosen country, with room enough for our descendants . . . ; entertaining a due sense of our equal right to the use of our own faculties, to the acquisitions of our own industry, to honor and confidence from our fellow citizens, resulting not from birth, but from our actions and their sense of them; enlightened by a benign religion. . .—with all these blessings, what more is necessary to make us a happy and a prosperous people? Still one thing more, fellow citizens—a wise and frugal Government, which shall restrain men from injuring one another, shall leave them otherwise free to regulate their own pursuits of industry and improvement, and shall not take from the mouth of labor the bread it has earned. This is the sum of good government; and this is necessary to close the circle of our felicities.",
+attribution: "President Thomas Jefferson, first inaugural address, 1801",
 prompt:
 "Which of the following was most likely a main purpose of Jefferson’s inaugural address?",
 choices: [
@@ -35,26 +35,26 @@ correct: 1,
 explanation:
 "Correct. Along with stating his support for limited government, Jefferson also touched on the ideals of republicanism in this excerpt from his inaugural address, which represented an expression of his ideal political system.",
 learningTip:
-"Explain how an author's audience or purpose shapes a source."
+"Explain how the author's audience or purpose shapes a source."
 },
 {
-skill: "Evidence and Reasoning",
+skill: "Historical Situation",
 source:
-"After the French and Indian War, Britain imposed new taxes and regulations on its North American colonies.",
-attribution: "Historical context, 1763–1776",
+"Let us, then, with courage and confidence, pursue our own Federal and [Democratic-] Republican principles, our attachment to union and representative government. Kindly separated by nature and a wide ocean from the exterminating havoc of one quarter of the globe; too high-minded to endure the degradations of the others; possessing a chosen country, with room enough for our descendants . . . ; entertaining a due sense of our equal right to the use of our own faculties, to the acquisitions of our own industry, to honor and confidence from our fellow citizens, resulting not from birth, but from our actions and their sense of them; enlightened by a benign religion. . .—with all these blessings, what more is necessary to make us a happy and a prosperous people? Still one thing more, fellow citizens—a wise and frugal Government, which shall restrain men from injuring one another, shall leave them otherwise free to regulate their own pursuits of industry and improvement, and shall not take from the mouth of labor the bread it has earned. This is the sum of good government; and this is necessary to close the circle of our felicities.",
+attribution: "President Thomas Jefferson, first inaugural address, 1801",
 prompt:
-"Which development best explains why these policies contributed to the American Revolution?",
+"Which of the following best describes the political situation in which Jefferson gave the address in the excerpt?",
 choices: [
-"Colonists objected to taxation without representation and questioned British authority",
-"Britain immediately granted the colonies independence",
-"Colonists unanimously opposed all forms of government",
-"The colonies had already adopted the U.S. Constitution"
+"The Democratic-Republican Party had won the presidency for the first time.",
+"Federalists sought compromise with Democratic-Republican politicians.",
+"Democratic-Republicans had gained increased support from wealthy merchants",
+"I love my homies"
 ],
 correct: 0,
 explanation:
-"Colonial resistance to taxation without representation and disputes over Parliament's authority helped transform tensions into a revolutionary movement.",
+"Correct. In 1800, Jefferson became the first Democratic-Republican to be elected president (after twelve years of Federalist administrations) and brought the first transition of executive authority from one party to another in United States history.",
 learningTip:
-"Connect historical evidence to a broader causal argument."
+"Connect historical situation to a broader causal argument."
 }
 ];
 
