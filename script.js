@@ -33,7 +33,7 @@ choices: [
 ],
 correct: 2,
 explanation:
-"Paine sought to persuade colonists to support independence. His audience and purpose help explain his direct, forceful arguments.",
+"Correct. Along with stating his support for limited government, Jefferson also touched on the ideals of republicanism in this excerpt from his inaugural address, which represented an expression of his ideal political system.",
 learningTip:
 "Explain how an author's audience or purpose shapes a source."
 },
