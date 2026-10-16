@@ -12,7 +12,7 @@ choices: [
 "As a leader in the early years of the republic, Jefferson feels governments should provide economic assistance to all citizens.",
 "As the author of the Declaration of Independence, Jefferson believes state governments should have more authority than the federal government."
 ],
-correct: 2,
+correct: 1,
 explanation:
 "Correct. Jefferson’s views of government saw limited involvement with the lives of United States citizens. He argued in the excerpt that “a wise and frugal Government . . . shall leave [its people] otherwise free to regulate their own pursuits of industry and improvement.”",
 learningTip:
@@ -31,7 +31,7 @@ choices: [
 "To warn European countries against renewing conflicts with the United States",
 "To justify the cost of the Louisiana Purchase"
 ],
-correct: 2,
+correct: 1,
 explanation:
 "Correct. Along with stating his support for limited government, Jefferson also touched on the ideals of republicanism in this excerpt from his inaugural address, which represented an expression of his ideal political system.",
 learningTip:
