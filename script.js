@@ -19,17 +19,17 @@ learningTip:
 "Identify the historical ideas that shaped a document."
 },
 {
-skill: "Sourcing",
+skill: "Purpose",
 source:
-"Thomas Paine argued that the American colonies should separate from Great Britain.",
-attribution: "Thomas Paine, Common Sense, 1776",
+"Same Excerpt as above",
+attribution: "Same as above",
 prompt:
-"Why is Paine's intended audience important when analyzing this source?",
+"Which of the following was most likely a main purpose of Jefferson’s inaugural address?",
 choices: [
-"It proves that every colonist supported independence",
-"It shows that the pamphlet was written only for Parliament",
-"It helps explain why Paine used persuasive arguments to encourage colonial independence",
-"It establishes that the pamphlet was written after the Treaty of Paris"
+"To advocate and explain the constitutionality of certain laws",
+"To summarize his beliefs about the ideal political system",
+"To warn European countries against renewing conflicts with the United States",
+"To justify the cost of the Louisiana Purchase"
 ],
 correct: 2,
 explanation:
