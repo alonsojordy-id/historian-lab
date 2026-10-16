@@ -55,6 +55,25 @@ explanation:
 "Correct. In 1800, Jefferson became the first Democratic-Republican to be elected president (after twelve years of Federalist administrations) and brought the first transition of executive authority from one party to another in United States history.",
 learningTip:
 "Connect historical situation to a broader causal argument."
+},
+{
+skill: "Purpose",
+source:
+"Louisiana as ceded by France is made part of the United States. Congress may make part of the United States other adjacent territories which shall be justly acquired.“Congress may sever from the United States territory not heretofore within the United States, with consent of a majority of the free males above 21 years, inhabiting such territory.",
+attribution: "James Madison, secretary of state, proposed constitutional amendment [not passed], 1803",
+prompt:
+"Which of the following best describes a major purpose of the proposed amendment?",
+choices: [
+"To strengthen the United States alliance with France",
+"To give individual states the legal right to secede from the Union",
+"To give Congress additional constitutional powers",
+"To give the president more control over negotiating treaties"
+],
+correct: 2,
+explanation:
+"Correct. The proposed amendment was designed to add specific language to the Constitution regarding the powers of the federal government, particularly the legislative branch, to buy territory from foreign governments and incorporate new territory into the Union, because these powers were not explicitly stated.",
+learningTip:
+"Explain how the author's purpose shapes a source."
 }
 ];
 
