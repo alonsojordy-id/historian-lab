@@ -130,11 +130,6 @@ attribution.textContent = question.attribution;
 
 sourceBox.append(sourceLabel, sourceText, attribution);
 
-const prompt = document.createElement("h3");
-prompt.className = "question-prompt";
-prompt.textContent = question.prompt;
-ourceBox.append(sourceLabel, sourceText, attribution);
-
 // Display an image if the question includes one.
 if (question.image) {
   const img = document.createElement("img");
