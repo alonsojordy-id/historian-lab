@@ -75,7 +75,6 @@ explanation:
 learningTip:
 "Explain how the author's purpose shapes a source."
 }
-]
 ];
 
 const form = document.getElementById("assessment-form");
