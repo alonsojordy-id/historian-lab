@@ -79,7 +79,7 @@ learningTip:
 {
 skill: "Cause",
 source: "Major Canals in the United States",
-image: "APUSH-UNIT4-CANAL.PNG",
+image: "APUSH-UNIT4-CA.PNG",
 attribution: "Major Canals in the United States",
 prompt:
 "Which of the following most directly contributed to the construction of canals depicted on the map?",
