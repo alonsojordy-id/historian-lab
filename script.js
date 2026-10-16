@@ -79,7 +79,7 @@ learningTip:
 {
 skill: "Cause",
 source: "Major Canals in the United States",
-image: "APUSH-UNIT4-CA.PNG",
+image: "APUSH-UNIT4-CA.png",
 attribution: "Major Canals in the United States",
 prompt:
 "Which of the following most directly contributed to the construction of canals depicted on the map?",
@@ -153,7 +153,23 @@ sourceBox.append(sourceLabel, sourceText, attribution);
 const prompt = document.createElement("h3");
 prompt.className = "question-prompt";
 prompt.textContent = question.prompt;
+ourceBox.append(sourceLabel, sourceText, attribution);
 
+// Display an image if the question includes one.
+if (question.image) {
+  const img = document.createElement("img");
+  img.src = question.image;
+  img.alt = question.attribution || "Question image";
+  img.style.maxWidth = "100%";
+  img.style.height = "auto";
+  img.style.display = "block";
+  img.style.margin = "16px auto";
+  img.style.borderRadius = "8px";
+
+  sourceBox.appendChild(img);
+}
+
+const prompt = document.createElement("h3");
 const answerList = document.createElement("div");
 answerList.className = "answer-list";
 
