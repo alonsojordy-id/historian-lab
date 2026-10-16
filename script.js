@@ -2,26 +2,19 @@ const questions = [
 {
 skill: "Historical Context",
 source:
-'"Let us, then, fellow-citizens, unite with one heart and one mind. Let us restore to social intercourse that harmony and affection
-without which liberty and even life itself are but dreary things. And let us reflect that, having banished from our
-land that religious intolerance under which mankind so long bled and suffered, we have yet gained little if we countenance
-a political intolerance as despotic, as wicked, and capable of as bitter and bloody persecutions…We have
-called by different names brethren of the same principle. We are all Republicans, we are all Federalists. If
-there be any among us who would wish to dissolve this Union or to change its republican form, 
-let them stand undisturbed as monuments of the safety with which error of opinion may be tolerated
-where reason is left free to combat it."',
-attribution: "Declaration of Independence, 1776",
+'"Let us, then, with courage and confidence, pursue our own Federal and [Democratic-] Republican principles, our attachment to union and representative government. Kindly separated by nature and a wide ocean from the exterminating havoc of one quarter of the globe; too high-minded to endure the degradations of the others; possessing a chosen country, with room enough for our descendants . . . ; entertaining a due sense of our equal right to the use of our own faculties, to the acquisitions of our own industry, to honor and confidence from our fellow citizens, resulting not from birth, but from our actions and their sense of them; enlightened by a benign religion. . .—with all these blessings, what more is necessary to make us a happy and a prosperous people? Still one thing more, fellow citizens—a wise and frugal Government, which shall restrain men from injuring one another, shall leave them otherwise free to regulate their own pursuits of industry and improvement, and shall not take from the mouth of labor the bread it has earned. This is the sum of good government; and this is necessary to close the circle of our felicities."',
+attribution: "President Thomas Jefferson, first inaugural address, 1801",
 prompt:
-"Which Enlightenment idea most directly influenced this passage?",
+"Which of the following best describes Jefferson’s point of view in the excerpt?",
 choices: [
-"The divine right of kings",
-"Natural rights and government by consent",
-"Mercantilism and imperial control",
-"The hereditary privileges of the nobility"
+"As the newly elected president, Jefferson believes government should limit interference in the lives of its citizens.",
+"As a resident of Virginia, Jefferson felt the federal government should financially support internal improvements.",
+"As a leader in the early years of the republic, Jefferson feels governments should provide economic assistance to all citizens.",
+"As the author of the Declaration of Independence, Jefferson believes state governments should have more authority than the federal government."
 ],
 correct: 1,
 explanation:
-"John Locke argued that people possess natural rights and that legitimate government depends on the consent of the governed. These ideas influenced the Declaration of Independence.",
+"Correct. Jefferson’s views of government saw limited involvement with the lives of United States citizens. He argued in the excerpt that “a wise and frugal Government . . . shall leave [its people] otherwise free to regulate their own pursuits of industry and improvement.”",
 learningTip:
 "Identify the historical ideas that shaped a document."
 },
