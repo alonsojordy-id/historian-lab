@@ -75,26 +75,7 @@ explanation:
 learningTip:
 "Explain how the author's purpose shapes a source."
 }
-],
-{
-skill: "Cause",
-source: "Major Canals in the United States",
-image: "APUSH-UNIT4-CA.png",
-attribution: "Major Canals in the United States",
-prompt:
-"Which of the following most directly contributed to the construction of canals depicted on the map?",
-choices: [
-"The building of a national telegraph system",
-"The expansion of cotton exports to Europe",
-"Funding from state governments and private investors",
-"The extensive use of enslaved laborers"
-],
-correct: 2,
-explanation:
-"Correct. Funding from state government and private investors most directly contributed to the construction of canals depicted on the map. Although some Americans in the first half of the 1800s, especially in the Northeast and Midwest, supported Henry Clay’s American System as a means of improving transportation infrastructure, the federal government provided relatively little support for transportation projects at this time because of concerns about the constitutionality of such measures, generally leaving the development of canals such as those depicted in the map to states or private investors.",
-learningTip:
-"Explain how the situation's event causes a development."
-}
+]
 ];
 
 const form = document.getElementById("assessment-form");
