@@ -2,14 +2,14 @@ const questions = [
 {
 skill: "Historical Context",
 source:
-'"Let us, then, fellow-citizens, unite with one heart and one mind. Let us restore to social intercourse that
-harmony and affection without which liberty and even life itself are but dreary things. And let us reflect that,
-having banished from our land that religious intolerance under which mankind so long bled and suffered, we
-have yet gained little if we countenance a political intolerance as despotic, as wicked, and capable of as bitter
-and bloody persecutions. . . . We have called by different names brethren of the same principle. We are all
-Republicans, we are all Federalists. If there be any among us who would wish to dissolve this Union or to
-change its republican form, let them stand undisturbed as monuments of the safety with which error of opinion
-may be tolerated where reason is left free to combat it."',
+'"Let us, then, fellow-citizens, unite with one heart and one mind. Let us restore to social intercourse that harmony and affection
+without which liberty and even life itself are but dreary things. And let us reflect that, having banished from our
+land that religious intolerance under which mankind so long bled and suffered, we have yet gained little if we countenance
+a political intolerance as despotic, as wicked, and capable of as bitter and bloody persecutions…We have
+called by different names brethren of the same principle. We are all Republicans, we are all Federalists. If
+there be any among us who would wish to dissolve this Union or to change its republican form, 
+let them stand undisturbed as monuments of the safety with which error of opinion may be tolerated
+where reason is left free to combat it."',
 attribution: "Declaration of Independence, 1776",
 prompt:
 "Which Enlightenment idea most directly influenced this passage?",
