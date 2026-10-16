@@ -12,7 +12,7 @@ choices: [
 "As a leader in the early years of the republic, Jefferson feels governments should provide economic assistance to all citizens.",
 "As the author of the Declaration of Independence, Jefferson believes state governments should have more authority than the federal government."
 ],
-correct: 1,
+correct: 2,
 explanation:
 "Correct. Jefferson’s views of government saw limited involvement with the lives of United States citizens. He argued in the excerpt that “a wise and frugal Government . . . shall leave [its people] otherwise free to regulate their own pursuits of industry and improvement.”",
 learningTip:
