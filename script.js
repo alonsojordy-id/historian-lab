@@ -7,8 +7,8 @@ attribution: "President Thomas Jefferson, first inaugural address, 1801",
 prompt:
 "Which of the following best describes Jefferson’s point of view in the excerpt?",
 choices: [
-"As the newly elected president, Jefferson believes government should limit interference in the lives of its citizens.",
 "As a resident of Virginia, Jefferson felt the federal government should financially support internal improvements.",
+"As the newly elected president, Jefferson believes government should limit interference in the lives of its citizens.",
 "As a leader in the early years of the republic, Jefferson feels governments should provide economic assistance to all citizens.",
 "As the author of the Declaration of Independence, Jefferson believes state governments should have more authority than the federal government."
 ],
