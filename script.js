@@ -78,8 +78,8 @@ learningTip:
 ],
 {
 skill: "Cause",
-source:
-"const img = document.createElement("APUSH-UNIT4-CANAL.PNG");",
+source: "Major Canals in the United States",
+image: "APUSH-UNIT4-CANAL.PNG",
 attribution: "Major Canals in the United States",
 prompt:
 "Which of the following most directly contributed to the construction of canals depicted on the map?",
