@@ -74,6 +74,27 @@ explanation:
 "Correct. The proposed amendment was designed to add specific language to the Constitution regarding the powers of the federal government, particularly the legislative branch, to buy territory from foreign governments and incorporate new territory into the Union, because these powers were not explicitly stated.",
 learningTip:
 "Explain how the author's purpose shapes a source."
+},
+{
+skill: "Visual Source Analysis",
+source:
+"Canals in the United States 1830",
+attribution: "Historical Canal Map in the United States (1830)",
+image: "https://raw.githubusercontent.com/alonsojordy-id/historian-lab/77c42a3655cc3c7aa294d8dd502117e6463d499d/APUSH-UNIT4-CANAL.png",
+imageAlt: "Historical map of canals in the United States in 1830",
+prompt:
+"Which of the following most directly contributed to the construction of canals depicted on the map?",
+choices: [
+"Funding from state governments and private investors",
+"The building of a national telegraph system",
+"The expansion of cotton exports to Europe",
+"The extensive use of enslaved laborers"
+],
+correct: 0,
+explanation:
+"Correct. Funding from state government and private investors most directly contributed to the construction of canals depicted on the map. Although some Americans in the first half of the 1800s, especially in the Northeast and Midwest, supported Henry Clay’s American System as a means of improving transportation infrastructure, the federal government provided relatively little support for transportation projects at this time because of concerns about the constitutionality of such measures, generally leaving the development of canals such as those depicted in the map to states or private investors.",
+learningTip:
+"Connect historical situation to a visual source."
 }
 ];
 
