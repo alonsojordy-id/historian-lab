@@ -166,6 +166,9 @@ if (question.image) {
 }
 
 const prompt = document.createElement("h3");
+prompt.className = "question-prompt";
+prompt.textContent - question.prompt;
+
 const answerList = document.createElement("div");
 answerList.className = "answer-list";
 
