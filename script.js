@@ -48,7 +48,7 @@ choices: [
 "The Democratic-Republican Party had won the presidency for the first time.",
 "Federalists sought compromise with Democratic-Republican politicians.",
 "Democratic-Republicans had gained increased support from wealthy merchants",
-"I love my homies"
+"The Federalist Party had won the presidency for the first time."
 ],
 correct: 0,
 explanation:
