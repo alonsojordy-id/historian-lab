@@ -1,5 +1,24 @@
 const questions = [
 {
+skill: "How to respond to a historical text question",
+source:
+"Follow this process: Step 1: Read the citation (locate the author, date, & text format) Step 2: Read the first and last sentence (predict the author's argument) Step 3: Re-read the entire passage quickly (confirm the argument) Step 4: Think about the Historical situation Step 5: Think about the Intended audience Step 6: What is the Point of view? Step 7: What is the author's Purpose Step 8: You are now ready to answer any question",
+attribution: "",
+prompt:
+"When analyzing a primary source using HIPP, why is identifying the Intended Audience crucial for a historian?",
+choices: [
+"It proves the factual accuracy and absolute objectivity of the source material.",
+"It helps explain why the author may have used specific rhetorical strategies, tones, or omissions to persuade that group.",
+"It reveals the personal background, race, and socioeconomic status of the document's creator.",
+"It outlines the long-term political and economic consequences of the event described in the text."
+],
+correct: 1,
+explanation:
+"Correct. Authors tailor their arguments, language, and emotional appeals depending on who they are trying to reach or convince.",
+learningTip:
+"Connect the author's audience to their argument."
+},
+{
 skill: "Historical Context",
 source:
 "Let us, then, with courage and confidence, pursue our own Federal and [Democratic-] Republican principles, our attachment to union and a representative government. Kindly separated by nature and a wide ocean from the exterminating havoc of one quarter of the globe; too high-minded to endure the degradations of the others; possessing a chosen country, with room enough for our descendants . . . ; entertaining a due sense of our equal right to the use of our own faculties, to the acquisitions of our own industry, to honor and confidence from our fellow citizens, resulting not from birth, but from our actions and their sense of them; enlightened by a benign religion. . .—with all these blessings, what more is necessary to make us a happy and a prosperous people? Still one thing more, fellow citizens—a wise and frugal Government, which shall restrain men from injuring one another, shall leave them otherwise free to regulate their own pursuits of industry and improvement, and shall not take from the mouth of labor the bread it has earned. This is the sum of good government; and this is necessary to close the circle of our felicities.",
