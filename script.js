@@ -156,83 +156,8 @@ explanation:
 "Correct. The construction of canals depicted on the map most directly contributed to the development of new towns and cities. As canals allowed for faster movement of goods, resources, and labor, more individuals were drawn to towns and cities along canal routes, especially across New York State, encouraging further establishment and growth of population centers.",
 learningTip:
 "Connect historical situation to a visual source."
-},
-{
-skill: "Primary Source Analysis",
-source:
-"The creation of a home market is not only necessary to procure for our agriculture a just reward of its labors, but it is indispensable to obtain a supply of our necessary wants. . . . Suppose no actual abandonment of farming, but, what is most likely, a gradual and imperceptible employment of population in the business of manufacturing, instead of being compelled to resort to agriculture. . . . Is any part of our common country likely to be injured by a transfer of the theatre of [manufacturing] for our own consumption from Europe to America?“ . . . Suppose it were even true that Great Britain had abolished all restrictions upon trade, and allowed the freest introduction of the [products] of foreign labor, would that prove it unwise for us to adopt the protecting system? The object of protection is the establishment and perfection of the [manufacturing] arts. In England it, has accomplished its purpose, fulfilled its end. . . . The adoption of the restrictive system, on the part of the United States, by excluding the [products] of foreign labor, would extend the [purchasing] of American [products], unable, in the infancy and unprotected state of the arts, to sustain a competition with foreign fabrics. Let our arts breathe under the shade of protection; let them be perfected as they are in England, and [then] we shall be ready . . . to put aside protection, and enter upon the freest exchanges.",
-attribution: "Henry Clay, speaker of the House of Representatives, speech in Congress, 1824",
-prompt:
-"The construction of canals depicted on the map most directly contributed to which of the following changes?",
-choices: [
-"The political debates over economic development",
-"The lives of women working in new factories",
-"The effects of new technologies on commerce",
-"The value of British-manufactured imports"
-],
-correct: 0,
-explanation:
-"Correct. In the excerpt from Clay’s speech, he sought to convince his congressional colleagues to support his plan to encourage United States manufacturing, which could best be used by historians studying political debates over economic development.",
-learningTip:
-"Identify the core subject or policy. Connect major developments to the relevant time period."
-},
-{
-skill: "Primary Source Analysis",
-source:
-"The creation of a home market is not only necessary to procure for our agriculture a just reward of its labors, but it is indispensable to obtain a supply of our necessary wants. . . . Suppose no actual abandonment of farming, but, what is most likely, a gradual and imperceptible employment of population in the business of manufacturing, instead of being compelled to resort to agriculture. . . . Is any part of our common country likely to be injured by a transfer of the theatre of [manufacturing] for our own consumption from Europe to America?“ . . . Suppose it were even true that Great Britain had abolished all restrictions upon trade, and allowed the freest introduction of the [products] of foreign labor, would that prove it unwise for us to adopt the protecting system? The object of protection is the establishment and perfection of the [manufacturing] arts. In England it, has accomplished its purpose, fulfilled its end. . . . The adoption of the restrictive system, on the part of the United States, by excluding the [products] of foreign labor, would extend the [purchasing] of American [products], unable, in the infancy and unprotected state of the arts, to sustain a competition with foreign fabrics. Let our arts breathe under the shade of protection; let them be perfected as they are in England, and [then] we shall be ready . . . to put aside protection, and enter upon the freest exchanges.",
-attribution: "Henry Clay, speaker of the House of Representatives, speech in Congress, 1824",
-prompt:
-"Which of the following was an interpretation of the speech by opponents of the goals Clay expressed in the excerpt?",
-choices: [
-"Clay was seeking to discourage factory production to protect traditional artisans",
-"Clay’s manufacturing plan would benefit one section of the country more than others",
-"Clay’s proposal would require the expansion of slavery to supply factory workers.",
-"Clay was seeking to encourage an increase in imports of British manufactured goods"
-],
-correct: 1,
-explanation:
-"Correct. In the excerpt, Clay advocated the use of tariffs to protect the new industries of the North. Opponents of Clay’s goals, often plantation holders and common farmers, believed this plan would hurt agriculturalists by making the manufactured goods they purchased more expensive. The opposition was especially pronounced in the South in the 1820s and 1830s, where many political leaders rejected tariffs as an attack on their way of life.",
-learningTip:
-"Identify the core subject or policy. Connect major developments to the relevant time period."
-},
-{
-skill: "Primary Source Analysis",
-source:
-"Brother, listen to what we say. There was a time when our forefathers owned this great [land]. . . . Your forefathers crossed the great water and landed upon this [land]. Their numbers were small. They found friends, not enemies. They told us they had fled from their own country for fear of wicked men, and had come here to enjoy their religion. They asked for a small seat. We took pity on them, we granted their request, and they sat down amongst us. We gave them corn and meat; they gave us poison in return.“ . . . Our seats were once large and yours were small. You have now become a great people, and we have scarcely a place left to spread our blankets. You have got our country, but are not satisfied; you want to force your religion upon us. . . . . . The Great Spirit has made us all, but he has made a great difference between his white and red children. . . . Since he has made so great a difference between us in other things, why may we not conclude that he has given us a different religion according to our understanding? The Great Spirit does right. He knows what is best for his children; we are satisfied.",
-attribution: "Red Jacket, Iroquois American Indian chief in New York, speech to a missionary from Massachusetts and a United States diplomat, 1805",
-prompt:
-"Which of the following best explains how the purpose of the speech in the excerpt was interpreted by federal officials?",
-choices: [
-"Red Jacket wanted to increase Iroquois commerce with the United States",
-"Red Jacket sought to protect Iroquois independence from the United States.",
-"Red Jacket desired to abandon traditional Iroquois religious practices for Christianity.",
-"Red Jacket wished to help United States migrants form new settlements on Iroquois land."
-],
-correct: 1,
-explanation:
-"Correct. Red Jacket’s expression in the excerpt of his desire to reject Christianization by United States officials would have been interpreted as an attempt to maintain Iroquois independence from the United States.",
-learningTip:
-"Identify Author's purpose."
-},
-{
-skill: "Primary Source Analysis",
-source:
-"Brother, listen to what we say. There was a time when our forefathers owned this great [land]. . . . Your forefathers crossed the great water and landed upon this [land]. Their numbers were small. They found friends, not enemies. They told us they had fled from their own country for fear of wicked men, and had come here to enjoy their religion. They asked for a small seat. We took pity on them, we granted their request, and they sat down amongst us. We gave them corn and meat; they gave us poison in return.“ . . . Our seats were once large and yours were small. You have now become a great people, and we have scarcely a place left to spread our blankets. You have got our country, but are not satisfied; you want to force your religion upon us. . . . . . The Great Spirit has made us all, but he has made a great difference between his white and red children. . . . Since he has made so great a difference between us in other things, why may we not conclude that he has given us a different religion according to our understanding? The Great Spirit does right. He knows what is best for his children; we are satisfied.",
-attribution: "Red Jacket, Iroquois American Indian chief in New York, speech to a missionary from Massachusetts and a United States diplomat, 1805",
-prompt:
-"The excerpt could best be used by historians studying the",
-choices: [
-"origins of the Second Great Awakening",
-"effects of the market revolution on family roles",
-"colonization of eastern North America by English settlers",
-"resistance against the expansion of United States influence"
-],
-correct: 3,
-explanation:
-"Correct. Red Jacket’s expression in the excerpt of his desire to maintain traditional Iroquois religious practices best helps historians interpret the ways in which American Indians resisted attempts by the United States to expand its influence over themselves and their homelands.",
-learningTip:
-"Identify Author's purpose."
 }
+
 ];
 
 const form = document.getElementById("assessment-form");
