@@ -2,7 +2,7 @@ const questions = [
 {
 skill: "How to respond to a historical text question",
 image:
-"images/hipp-image.jpg",
+"hipp-image.jpg",
 attribution: "",
 prompt:
 "When analyzing a primary source using HIPP, why is identifying the Intended Audience crucial for a historian?",
