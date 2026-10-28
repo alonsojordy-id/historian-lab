@@ -1,8 +1,8 @@
 const questions = [
 {
 skill: "How to respond to a historical text question",
-source:
-"Follow this process: Step 1: Read the citation (locate the author, date, & text format) Step 2: Read the first and last sentence (predict the author's argument) Step 3: Re-read the entire passage quickly (confirm the argument) Step 4: Think about the Historical situation Step 5: Think about the Intended audience Step 6: What is the Point of view? Step 7: What is the author's Purpose Step 8: You are now ready to answer any question",
+image:
+"images/hipp-image.jpg",
 attribution: "",
 prompt:
 "When analyzing a primary source using HIPP, why is identifying the Intended Audience crucial for a historian?",
