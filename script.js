@@ -263,6 +263,14 @@ const number = document.createElement("span");
 number.className = "question-number";
 number.textContent = `QUESTION ${index + 1}`;
 
+const image = document.createElement("img");
+
+if (question.image) {
+  image.src = question.image; 
+  image.alt = "Historical source for analysis";
+  image.className = "question-image";
+}
+
 const skill = document.createElement("span");
 skill.className = "skill-tag";
 skill.textContent = question.skill;
