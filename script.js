@@ -1,6 +1,6 @@
 const questions = [
 {
-skill: "How to respond to a historical text question",
+skill: "How to use HIPP",
 image:
 "hipp-image.jpg",
 attribution: "",
@@ -17,6 +17,25 @@ explanation:
 "Correct. Authors tailor their arguments, language, and emotional appeals depending on who they are trying to reach or convince.",
 learningTip:
 "Connect the author's audience to their argument."
+},
+{
+skill: "How to use HIPP",
+image:
+"hipp-image.jpg",
+attribution: "",
+prompt:
+"When analyzing a primary source using HIPP, what does Historical Context specifically require a student to identify?",
+choices: [
+"The specific demographic makeup and literacy rates of the people reading the document.",
+"The personal background, political beliefs, and occupational biases of the author.",
+"The immediate or broader circumstances, events, and environment surrounding the creation of the document.",
+"The ultimate goal, pitch, or desired outcome the author hopes to achieve with the document."
+],
+correct: 2,
+explanation:
+"Correct. Historical context looks at the 'time and place' and the specific historical events happening when the source was created that give it meaning.",
+learningTip:
+"Connect the broader circumstances and events that influenced the author's argument."
 },
 {
 skill: "Author's Perspective (POV)",
